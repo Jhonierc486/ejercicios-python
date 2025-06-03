@@ -4,7 +4,7 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy **Jhonier Chavarro**, estudiante de Ingeniería de Software, con experiencia en el desarrollo de sitios web y aplicaciones enfocadas en soluciones digitales. Actualmente, trabajo como Ingeniero de Software en la Secretaría de Salud de Bogotá, liderando el diseño de sistemas de bases de datos hospitalarias.
+Soy **Jhonier Chavarro**, estudiante de Ingeniería de Software, con experiencia en el desarrollo de sitios web y aplicaciones enfocadas en soluciones digitales.
 
 Además, estoy desarrollando aplicaciones móviles como **ViaGo** (tipo Uber con OpenStreetMap) y **Ahorro Personal**, una app de control de gastos, usando **.NET MAUI** y **Visual Studio 2022**.
 
